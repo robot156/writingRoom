@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextAppearance.writingRoom" parent="TextAppearance.AppCompat" />
+
+    <style name="TextAppearance.writingRoom.HeadLine1">
+        <item name="android:fontFamily">@font/font_bold</item>
+        <item name="fontFamily">@font/font_bold</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+
+    <style name="TextAppearance.writingRoom.HeadLine2">
+        <item name="android:fontFamily">@font/font_regular</item>
+        <item name="fontFamily">@font/font_regular</item>
+        <item name="android:textSize">18dp</item>
+    </style>
+
+    <style name="TextAppearance.writingRoom.Body0">
+        <item name="android:fontFamily">@font/font_light</item>
+        <item name="fontFamily">@font/font_light</item>
+        <item name="android:textSize">18dp</item>
+    </style>
+
+    <style name="TextAppearance.writingRoom.Body1">
+        <item name="android:fontFamily">@font/font_light</item>
+        <item name="fontFamily">@font/font_light</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+
+</resources>
